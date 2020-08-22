@@ -1,4 +1,4 @@
-# Stanfrod cs231n CNN for Visual Recognition
+# Stanford cs231n CNN for Visual Recognition
 <p align="center">
     <img src="images/course_homepage_img.jpg"><br/>
 </p>
